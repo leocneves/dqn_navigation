@@ -86,3 +86,11 @@ sudo apt install unzip & unzip Banana_Linux_NoVis.zip
 
 
 5. To train the agent just open the notebook **Navigation.ipynb** and execute all cells! At final of training step *(mean of last 100 rewards are more than +13 or episode are greater than 2000)* we can see *'checkpoint.pth'* created where contains the weights of neural nets from training step and in *'results/'* we can see graph generated to illustrate convergence in learning by plotting scores for each 100 episodes.
+
+### What's next?
+
+* Go to the [main notebook](https://github.com/leocneves/dqn_navigation/blob/master/Navigation.ipynb) and try to execute by yourself!
+
+* Visit Report.md file for more details about the code and results.
+
+---
