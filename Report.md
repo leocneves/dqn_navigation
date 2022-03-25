@@ -183,3 +183,7 @@ In the next figure we can see the plot of Score x Episodes til the end of episod
 We can see that our agent was able to growth the reward received, showing the ability to learn with this env. and getting the score suggested by Udacity to declare the environment solved (more than +13.0) at episode **376**!
 
 ### Ideas for Future Work
+
+For future work we can implement algorithms like **Prioritized Experience Replay**, **Double Q-Learning** and **Dueling Network Architectures**. Not just it, we can change neural nets architectures and RL parameters with grid search strategies!
+
+---
